@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Metaverse V1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
